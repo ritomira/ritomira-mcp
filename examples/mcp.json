@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ritomira": {
+      "type": "http",
+      "url": "https://mcp.ritomira.com/mcp"
+    }
+  }
+}

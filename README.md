@@ -1,4 +1,5 @@
 # Ritomira MCP
+[![mcptry](https://mcptry.com/badge/com.ritomira/ritomira)](https://mcptry.com/servers/com.ritomira/ritomira)
 
 [日本語](README.ja.md)
 
